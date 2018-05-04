@@ -14,7 +14,7 @@ Market #2 "P/R" = 150,000 / (12 x 1,200) = 10.41
 
 Market #1 would be a stronger buyers' market than Market #2, and Market #2 would be a stronger renters' market than Market #1 given the information provided. 
 
-Goal: The goal of this project is to see which real-estate market factors may affect the price-to-rent ratio. We will explore the following criteria to get a better sense of why the price-to-rent ratio fluctuates over time:
+Goal: The goal of this project is to see which real-estate market factors have a strong relationship to the price-to-rent ratio. We will explore the following criteria to get a better sense of why the price-to-rent ratio fluctuates over time:
 
 1. Population Growth
 
