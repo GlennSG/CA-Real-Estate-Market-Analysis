@@ -2,7 +2,7 @@
 
 Analyzing factors that may affect a person's decision to live in a certain area of California. 
 
-Summary: We will explore the multiple real-estate market factors to find correlations that may explain migratory patterns to certain county regions in California.
+Summary: We will explore multiple real-estate market factors to find correlations that may explain migratory patterns to certain county regions in California.
 
 Real-estate market factors:
 
@@ -39,5 +39,7 @@ Market #2 "P/R" = 150,000 / (12 x 1,200) = 10.41
 Market #1 would be a stronger buyers' market than Market #2, and Market #2 would be a stronger renters' market than Market #1 given the information provided. 
 
 Potential Downside of Price-to-Rent Ratio: Does not measure locations' housing affordability. An area where renting & buying are very expensive could have the same price-to-rent ratio as an area where renting & buying are very cheap. 
+
+There may not be a strong relationship between the price to rent ratio and other real-estate market factors. However, we can still use the price to rent ratio to determine a possible relationship between renters/buyers and other real estate market factors. 
 
 Sources: Zillow (https://www.zillow.com/research/data/) California Open Data Portal (https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
