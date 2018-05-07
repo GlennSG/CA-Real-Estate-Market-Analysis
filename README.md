@@ -24,9 +24,9 @@ Real-estate market factors:
 
 9. Crime Rate
 
-10. Price to Rent ratio
+10. Price to Rent ratio *
 
-* The price-to-rent ratio is a statistic that is used for comparing the relative costs of buying and renting to help determine the best locations to buy or rent houses. Typically, a lower price-to-rent ratio indicates that a location is more suitable for home buyers and a higher ratio indicates a renters' market. 
+The price-to-rent ratio is a statistic that is used for comparing the relative costs of buying and renting to help determine the best locations to buy or rent houses. Typically, a lower price-to-rent ratio indicates that a location is more suitable for home buyers and a higher ratio indicates a renters' market. 
 
 Equation: "P/R" = Average Property Price / Average Rent per year:
 
