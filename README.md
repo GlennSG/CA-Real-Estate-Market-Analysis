@@ -26,7 +26,7 @@ Real-estate market factors:
 
 ## Link to project analysis 
 
-[Jupyter Notebook Link (GitHub)](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/California%20Market%20Price-to-Rent%20Analysis%20(updated%20version).ipynb)
+[Total population vs. Other real-estate market factors by CA County](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/California%20Market%20Price-to-Rent%20Analysis%20(updated%20version).ipynb)
 
 ## Sources
 
