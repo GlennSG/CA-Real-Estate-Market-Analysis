@@ -30,22 +30,22 @@ Real-estate market factors:
 
 ## Sources
 
-1. Zillow (https://www.zillow.com/research/data/) 
+1. [Zillow](https://www.zillow.com/research/data/) 
 
-2. California Open Data Portal (https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
+2. [California Open Data Portal](https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
 
-3. State of California Employtment Development Department (http://www.labormarketinfo.edd.ca.gov/LMID/Size_of_Business_Data.html)
+3. [State of California Employtment Development Department](http://www.labormarketinfo.edd.ca.gov/LMID/Size_of_Business_Data.html)
 
-4. US Zip Codes (https://gist.github.com/erichurst/7882666)
+4. [US Zip Codes](https://gist.github.com/erichurst/7882666)
 
-5. United States Census, Building Permits (https://www.census.gov/construction/bps/)
+5. [United States Census, Building Permits](https://www.census.gov/construction/bps/)
 
-6. United States Department of Labor, Bureau of Labor Statistics (https://www.bls.gov/lau/#tables)
+6. [United States Department of Labor, Bureau of Labor Statistics](https://www.bls.gov/lau/#tables)
 
-7. State of California Department of Justice (https://oag.ca.gov/crime)
+7. [State of California Department of Justice](https://oag.ca.gov/crime)
 
-8. California Department of Education (https://www.cde.ca.gov/ds/si/ds/pubschls.asp)
+8. [California Department of Education](https://www.cde.ca.gov/ds/si/ds/pubschls.asp)
 
-9. California Department of Finance (http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-5/)
+9. [California Department of Finance](http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-5/)
 
-10. California State Board of Equalization (http://www.boe.ca.gov/annual/table14.htm)
+10. [California State Board of Equalization](http://www.boe.ca.gov/annual/table14.htm)
