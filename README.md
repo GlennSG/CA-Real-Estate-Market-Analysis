@@ -1,45 +1,47 @@
 # CA-Real-Estate-Market-Analysis
 
-Analyzing factors that may affect a person's decision to live in a certain area of California. 
+Analyzing real-estate market factors for relationship to population size. 
 
-Summary: We will explore multiple real-estate market factors to find correlations that may explain migratory patterns to certain county regions in California.
+Summary: We will explore multiple real-estate market factors to find correlations with the population sizes of certain county regions in California.
 
 Real-estate market factors:
 
-1. Population Growth
+1. Number of Active Schools 
 
-2. Number of Active Schools 
+2. Job Growth (measured by number of businesses per year)
 
-3. Job Growth (measured by number of businesses per year)
+3. Building Permits
 
-4. Building Permits
+4. Housing Units
 
-5. Housing Units
+5. Unemployment Rate (%)
 
-6. Unemployment Rate (%)
+6. Vacancy Rate
 
-7. Vacancy Rate
+7. Property Tax Rate (average)
 
-8. Property Tax Rate (average)
+8. Crime Rate
 
-9. Crime Rate
+9. Price to Rent ratio 
 
-10. Price to Rent ratio *
 
-The price-to-rent ratio is a statistic that is used for comparing the relative costs of buying and renting to help determine the best locations to buy or rent houses. Typically, a lower price-to-rent ratio indicates that a location is more suitable for home buyers and a higher ratio indicates a renters' market. 
+Sources: 
+1. Zillow (https://www.zillow.com/research/data/) 
 
-Equation: "P/R" = Average Property Price / Average Rent per year:
+2. California Open Data Portal (https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
 
-If the average price of a home in a market is 100,000 and the average monthly rent is 1,000, the PR is 8.83. The PR of another market with average property worth 150,000 and average rent 1,200 per month is 10.41.
+3. State of California Employtment Development Department (http://www.labormarketinfo.edd.ca.gov/LMID/Size_of_Business_Data.html)
 
-Market #1 "P/R" = 100,000 / (12 x 1,000) = 8.83
+4. US Zip Codes (https://gist.github.com/erichurst/7882666)
 
-Market #2 "P/R" = 150,000 / (12 x 1,200) = 10.41
+5. United States Census, Building Permits (https://www.census.gov/construction/bps/)
 
-Market #1 would be a stronger buyers' market than Market #2, and Market #2 would be a stronger renters' market than Market #1 given the information provided. 
+6. United States Department of Labor, Bureau of Labor Statistics (https://www.bls.gov/lau/#tables)
 
-Potential Downside of Price-to-Rent Ratio: Does not measure locations' housing affordability. An area where renting & buying are very expensive could have the same price-to-rent ratio as an area where renting & buying are very cheap. 
+7. State of California Department of Justice (https://oag.ca.gov/crime)
 
-There may not be a strong relationship between the price to rent ratio and other real-estate market factors. However, we can still use the price to rent ratio to determine a possible relationship between renters/buyers and other real estate market factors. 
+8. California Department of Education (https://www.cde.ca.gov/ds/si/ds/pubschls.asp)
 
-Sources: Zillow (https://www.zillow.com/research/data/) California Open Data Portal (https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
+9. California Department of Finance (http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-5/)
+
+10. California State Board of Equalization (http://www.boe.ca.gov/annual/table14.htm)
