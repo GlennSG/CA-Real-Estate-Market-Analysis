@@ -1,8 +1,8 @@
-# CA-Real-Estate-Market-Analysis
+# CA-Real-Estate-Market-Analysis 
 
-Analyzing real-estate market factors for relationship to population size. 
+## Summary
 
-Summary: We will explore multiple real-estate market factors to find correlations with the population sizes of certain county regions in California.
+We will explore multiple real-estate market factors to find correlations with the population sizes of certain county regions in California.
 
 Real-estate market factors:
 
@@ -28,7 +28,8 @@ Real-estate market factors:
 
 [Jupyter Notebook Link (GitHub)](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/California%20Market%20Price-to-Rent%20Analysis%20(updated%20version).ipynb)
 
-Sources: 
+## Sources
+
 1. Zillow (https://www.zillow.com/research/data/) 
 
 2. California Open Data Portal (https://data.ca.gov/dataset/county-and-zip-code-references/resource/c3527a9a-81c3-48aa-8ba5-022fc8fc753f#{})
