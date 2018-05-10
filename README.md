@@ -24,6 +24,9 @@ Real-estate market factors:
 
 9. Price to Rent ratio 
 
+## Link to project analysis 
+
+[Jupyter Notebook Link (GitHub)](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/California%20Market%20Price-to-Rent%20Analysis%20(updated%20version).ipynb)
 
 Sources: 
 1. Zillow (https://www.zillow.com/research/data/) 
