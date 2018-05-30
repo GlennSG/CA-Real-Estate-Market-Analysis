@@ -26,7 +26,7 @@ Real-estate market factors:
 
 ## Link to project analysis 
 
-[Total population vs. Other real-estate market factors by CA County](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/CA%20county%20population%20analysis.ipynb)
+[Total population vs. Other real-estate market factors by CA County](https://github.com/GlennSG/CA-Real-Estate-Market-Analysis/blob/master/CA-Files/CA%20County%20Population%20Analysis%20(visual).ipynb)
 
 ## Sources
 
